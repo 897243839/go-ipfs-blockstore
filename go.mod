@@ -1,4 +1,4 @@
-module github.com/897243839/go-ipfs-blockstore
+module github.com/ipfs/go-ipfs-blockstore
 
 require (
 	github.com/hashicorp/golang-lru v0.5.4
